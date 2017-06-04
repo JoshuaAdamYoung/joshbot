@@ -1,0 +1,17 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-tldr": "^0.4.14",
+    "snoowrap": "^1.13.0",
+    "twit": "^2.2.5",
+    "watson-developer-cloud": "^2.31.1"
+  }
+}
